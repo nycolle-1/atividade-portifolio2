@@ -228,7 +228,7 @@ section.contatos{
 
 /* rodape*/
 
-/* footer{
+footer{
     padding: 40px 0;
 }
 
@@ -236,12 +236,8 @@ footer > .interface{
     display: flex;
     justify-content:center;
     background-color: #0a0119;
-} */
 
-footer {
-	background-color: #333;
-	color: #fff;
-	padding: 20px;
-	text-align: center;
-	margin-top: 50px;
+    text-align: center;
 }
+
+
