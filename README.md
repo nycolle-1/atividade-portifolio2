@@ -1,6 +1,6 @@
-# Portifolio
+# Portfólio
 ## ⚙️Descrição do projeto 
-o projeto tem o objetido de centralizar as principais informaçao de um portifolio comum, com ifnormações basicas, projetos antigos e formas de contato
-## 🛠️ Tecnologias utilizadas 
-* [formsubmit](https://formsubmit.co/) - Formulario
-## 📌  Link para o site publicado
+o projeto tem o objetivo de centralizar as principais informações de um portfólio comum, com informações básicas, projetos antigos e formas de contato.
+## 🛠️ Tecnologias utilizadas. 
+* [formsubmit](https://formsubmit.co/) - Formulário
+## 📌  Link para o site publicado.
